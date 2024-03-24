@@ -21,7 +21,7 @@
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning and Implementing **React js **
+- 🌱 I’m currently learning and Implementing **React js**
 
 - 💬 Ask me about **Ruby on Rails , React js, Node js, MySQL, C++ , OOPs**
 
@@ -35,7 +35,7 @@
 <img alt="Coder GIF" height=250 width='100%'  src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 </div>
 
-## 🧑🏼‍💻 Languages
+### Languages
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
