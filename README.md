@@ -1,8 +1,22 @@
 
-<div align="center">
-  <img alt="Coder GIF" height=250 width=350 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
+
+
+<div align='center' width='100%' >
+  
+<img alt="Coder GIF" height=250 width='100%'  src="https://drive.google.com/uc?id=11LQ05ZdzRaQkcmeXNX1uijUga6ht1bKw" />
+
 </div>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">, I'm Rahul Kushwaha</h1>
+
+
+
+<h1 align="center">Hi
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+  <br />
+    <br />
+
+ ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FFFFFF&center=true&random=false&width=435&lines=+I'm+Rahul+Kushwaha)
+ 
+ </h1>
 <h3 align="center">A passionate Softwere developer from India  </h3>
 
 ### 🚀 About Me
@@ -21,7 +35,7 @@
 <img alt="Coder GIF" height=250 width='100%'  src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 </div>
 
-### Languages
+## 🧑🏼‍💻 Languages
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -80,5 +94,13 @@
 
 <div align='center'>
   <img alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+</div>
+
+<br /> 
+
+<div align='center' width='100%' >
+  
+<img alt="Coder GIF" height=200 width='100%'  src="https://drive.google.com/uc?id=1mZLA3nnJ1decKLdrxwnZRMzjMGX8Soeh" />
+
 </div>
 
