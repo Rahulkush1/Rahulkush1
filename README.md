@@ -17,7 +17,7 @@
  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FFFFFF&center=true&random=false&width=435&lines=+I'm+Rahul+Kushwaha)
  
  </h1>
-<h3 align="center">A passionate Softwere developer from India  </h3>
+<h3 align="center">A passionate Software developer from India  </h3>
 
 ### 🚀 About Me
 
