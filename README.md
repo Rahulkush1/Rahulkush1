@@ -29,7 +29,7 @@
 
 - 📄 Know about my experiences [https://rahulkushwaha-resume.tiiny.site](https://rahulkushwaha-resume.tiiny.site)
 
-- 🙋 Get to Know more about me [https://rahulkush1.github.io/]
+- 🙋 Get to Know more about me [https://rahulkush1.github.io/](https://rahulkush1.github.io/)
 
 ## 🛠️ Skills
 
